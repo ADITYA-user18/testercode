@@ -1,4 +1,4 @@
 def adder(a, b):
     return a + b    
 
-print(adder())
+print(adder(10))
